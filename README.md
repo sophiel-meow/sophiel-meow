@@ -13,6 +13,7 @@ aka. **Ziyu Zhou**
 🕊️ FSF (Free Software Foundation) Associate Member
 
 ---
+
 ### 🌟 About Me
 I’m a **research-oriented developer** passionate about:
 - 🧩 Computer systems & architectures  
@@ -82,3 +83,6 @@ Preferred languages: English 🇬🇧 / Chinese 🇨🇳 / Japanese 🇯🇵
 
 ---
 
+<a href="#">
+  <img src="fsf.webp" alt="@FSF">
+</a>
