@@ -8,8 +8,8 @@
 
 💬 **Sophiel Zhou**  
 aka. **Ziyu Zhou**  
-🎓 Undergraduate Student @ Shandong Agricultural University  
-⚡ Research-oriented developer | Computer Science & Engineering  
+🎓 MSc student @ Shandong Agricultural University (SDAU)  
+🔬 Multimodal representation learning · Continual learning in LLMs  
 🕊️ FSF (Free Software Foundation) Associate Member
 
 ---
@@ -43,13 +43,24 @@ Sometimes curious, sometimes meow~ 🐱
 ---
 
 ### 📫 Get in Touch
-📧 Academic: **zzy040330@ieee.org**  
-📮 Public: **sophiel@zzy040330.moe**  
-🌐 ORCID: [0000-0002-7017-5397](https://orcid.org/0000-0002-7017-5397)  
-🔗 ResearchGate: [Ziyu Zhou](https://www.researchgate.net/profile/Ziyu-Zhou-36)  
-🔐 XMPP (Jabber): sophiel-meow@member.fsf.org  
 
-Preferred languages: English 🇬🇧 / Chinese 🇨🇳 / Japanese 🇯🇵  
+**🎓 Academic**
+
+- **Email** · `zzy040330@ieee.org`
+- **ORCID** · [0000-0002-7017-5397](https://orcid.org/0000-0002-7017-5397)
+- **ResearchGate** · [Ziyu Zhou](https://www.researchgate.net/profile/Ziyu-Zhou-36)
+
+**💬 Personal & Social**
+
+- **Email** · `sophiel@zzy040330.moe`
+- **Mastodon** · [@sophiel_meow@hostux.social](https://hostux.social/@sophiel_meow)
+- **XMPP (Jabber)** · `sophiel-meow@member.fsf.org`
+
+**📡 Amateur Radio**
+
+- **Callsign** · [BG4KNN](https://www.qrz.com/db/BG4KNN)
+
+*Preferred languages: English 🇬🇧 / Chinese 🇨🇳 / Japanese 🇯🇵*
 
 ---
 
