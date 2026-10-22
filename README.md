@@ -97,3 +97,5 @@ Sometimes curious, sometimes meow~ 🐱
 <a href="#">
   <img src="fsf.webp" alt="@FSF">
 </a>
+
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
